@@ -1,0 +1,63 @@
+ {
+  "image":"<:image:1086874406174851072> ",
+  "currency":"<:Currency:1086874733603201084> ",
+
+  "games":"<a:games:908346407432380448> ",
+  "admin":"<:admin:1086875500904984587>  ",
+  "configs":"<:Config:1086875715003232266> ",
+  "utils":"<:utils:1086875875808641074> ", 
+  "success": "<a:success:1086876008600309782>",
+
+  "green":"<:Green:1086876206609219606>  ",
+  "red":"<:Red:1086876315279437875> ",
+
+  "dot": "<a:dots:1086876449773998140> ",
+  "fail": "<:Failed:1086876721703288872>   ",
+
+  "misc": "<:voice:1086880064408391751>  ",
+  "mod": "<:moderation:1086881296296452126> ",
+
+  "pogger1": "<:poggerz:790987235591323659> ",
+  "heartbreak":"<:heartbreak:790987215324184606> ",
+  
+  "lock": "<:lock:1086877226169008139>   ",
+  "unlock": "<:unlock:1086877380267757638>  ",
+
+  "owner": "<:king:1086898133075755049>",
+
+  "discord_employee":"<:discordEmployee:1086877799035457536>   ",
+  "discord_partner": "<:DiscordPartner:1086877916010401832> ",
+  "bughunter_level_1": "<:bughunter_lvl1:1086878127457849414>   ",
+  "bughunter_level_2": "<:bughunter_lvl2:1086878243971411978>  ",
+  "hypesquad_events": "<:hypesquad_events:1086878383473963008>  ",
+  "house_brilliance": "<:house_brilliance:1086878647119515748>   ",
+  "house_bravery": "<:Bravery:1086878767777067070>  ",
+  "house_balance": "<:Balance:1086878880171839528>   ",
+  "early_supporter": "<:early_supporter:1086878995448090684>  ",
+  "verified_bot": "<:Verified_bot:1086879098170785812>  ",
+  "verified_developer": "<:verifieddev:790152986382303253> ",
+
+
+  "online": "<a:Online:1086142268563542088> ",
+  "idle": "<:idle:1086879618469990420>   ",
+  "offline": "<a:offline:1086879539273154590>  ",
+  "dnd": "<:dnd:1086879714779615273>  ",
+  "verify":"<a:verify:1086879826146762752>",
+
+  "voice": "<:voice:1086880064408391751>  ",
+
+  "pong": "<:online:790132184018059304>",
+
+  "altdetector":"<:metal_detector:1086880467028037862> ",
+  "applications":"<:application:1086880555305554020> ",
+  "config":"<:Config:1086875715003232266> ",
+  "utility":"<:utils:1086875875808641074> ",
+  "economy":"<:money:1086899003737780294> ",
+  "fun":"<:RooHappyHappyHappy:1086916024324063274>",
+  "images":"<:image:1086874406174851072> ",
+  "information":"<:brain:1086881192734904320>  ",
+  "moderation":"<:moderation:1086881296296452126> ",
+  "reactionrole":"<:ReactionRole:1086881418564603914> ",
+  "tickets":"<:Ticket:1086881496918409306> "
+
+}
