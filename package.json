@@ -132,12 +132,12 @@
     "tesseract.js": "^2.1.5",
     "valid-url": "^1.0.9"
   },
-  "name": "pogy",
+  "name": "Kysta",
   "version": "1.0.0",
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": "<h1 align=\"center\">  <br>   <a href=\"https://github.com/peterhanania\"><img src=\"https://dev.pogy.gg/favicon.ico\"></a>   <br>   Pogy the Discord Bot [DJS V13]  <br> </h1>",
+  "description": "Kysta Bot",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Priyanshi86xD/Kysta.git"
